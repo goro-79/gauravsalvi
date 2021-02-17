@@ -1,4 +1,4 @@
-Welcome to my personal website.
-My name is Gaurav Salvi.
+#Welcome to my personal website.
+#My name is Gaurav Salvi.
 
-Work in progress ...
+##Work in progress ...
